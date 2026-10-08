@@ -401,6 +401,7 @@ uploaded_file = st.file_uploader(
         "jpeg",
         "png",
         "webp"
+        "jfif"
     ],
     label_visibility="collapsed"
 )
